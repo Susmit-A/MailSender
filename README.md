@@ -1,6 +1,8 @@
 # MailSender
 A very basic e-mail sending library for android. One line code to send an email.
 Currently does not support attachments, text based mail only.
+
+
 Integration with existing project
 ---
 
